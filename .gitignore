@@ -51,6 +51,13 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+#esp idf --unoreginal addition
+sdkconfig
+sdkconfig.old
+managed_components/
+dependencies.lock
+**/build/
+
 # Eclipse
 .metadata/
 RemoteSystemsTempFiles/.project
